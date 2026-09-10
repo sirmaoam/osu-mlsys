@@ -1,0 +1,9 @@
+recordings/
+frames/
+dataset/
+
+*.mp4
+*.mkv
+
+__pycache__/
+*.pyc
